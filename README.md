@@ -56,5 +56,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/NgurY1o4z080Jf
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhapatil12&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medhapatil12&layout=compact&theme=transparent" alt="Top Langs">
 </a>
